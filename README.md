@@ -1,2 +1,2 @@
-# cats7-template-linux
-My Template resource for Linux
+# cats7-template
+My Template resources for New Apps
