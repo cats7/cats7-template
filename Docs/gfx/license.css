@@ -1,0 +1,41 @@
+﻿/************************************************************************************************
+ *    This is License.css (CSS2.1), Copyleft, 2015-2017.                                        *
+ ************************************************************************************************/
+
+BODY { color:black; background-color:white; font-family: Verdana, Helvetica, sans-serif; }
+
+BODY,OBJECT,IMG,P,DIV,H1,H2,H3,H4,H5,H6,OL,UL,LI,DL,DT,PRE { text-align:justify; margin: 0.6em 1em; }
+
+H1,H2,H3,H4,H5,H6 { padding: 0.6em 0 0; }
+
+A { text-decoration:underline; }
+A:link { color:indigo; }
+A:visited { color:indigo; }
+A:hover { text-decoration:none; }
+A:active { color:darkorange; }
+A[rel="nofollow"] { color:mediumblue; }
+
+P { text-indent:0; }
+P.l { text-align:left; }
+P.c { text-align:center; }
+P.r { text-align:right; }
+
+OL.abc { list-style-type:lower-latin; }
+OL.123 { list-style-type:decimal; }
+
+DL { font-size:smaller; }
+DT { font-weight:bold; }
+
+CODE,VAR,SAMP,KBD,PRE { text-decoration:none; font-family: Courier, FreeMono, Monospace, fixed; }
+PRE { background-color:whitesmoke; }
+DFN { text-decoration:none; }
+STRONG,EM { font-weight:bolder; }
+SUB,SUP { font-size:xx-small; }
+
+IMG { padding:0.6em; }
+
+.gpl3 { width:30%; float:right; }
+
+/***************************************  End of File  ******************************************
+ ************************************************************************************************/
+

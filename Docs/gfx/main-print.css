@@ -1,0 +1,39 @@
+﻿/****************************************************************************
+ *                                                                          *
+ *    This is License-Print.css (CSS2.1), Copyleft, 2010-2015.              *
+ *  (For files: gpl2.html, lgpl2.html, gpl3.html, lgpl3.html, fdl13.html)   *
+ *                                                                          *
+ ****************************************************************************/
+
+BODY { color:black; background-color:white; text-align:justify; font-family: Verdana, Helvetica, sans-serif; }
+
+A { text-decoration:none; color:black; }
+A:link { color:black; }
+A:visited { color:black; }
+
+H1,H2,H3,H4,H5,H6 { text-align:center; margin-top:1.2em; margin-bottom:0.8em; page-break-after:avoid; }
+
+P { text-indent:0; margin-top:0.6em; margin-bottom:0.6em; }
+P.l { text-align:left; }
+P.c { text-align:center; }
+P.r { text-align:right; }
+
+OL,UL,LI { margin-top:0.6em; margin-bottom:0.6em; }
+OL.abc { list-style-type:lower-latin; }
+OL.123 { list-style-type:decimal; }
+
+DL,DT { margin-top:0.6em; margin-bottom:0.3em; }
+DL { font-size:smaller; }
+DT { font-weight:bold; page-break-after:avoid; }
+DD { page-break-inside:avoid; }
+
+HR { page-break-before:always; }
+
+CODE,VAR,SAMP,KBD,PRE { text-decoration:none; font-family: Courier, FreeMono, Monospace, fixed; }
+PRE { background-color:whitesmoke; }
+DFN { text-decoration:none; }
+STRONG,EM { font-weight:bolder; }
+SUB,SUP { font-size:xx-small; }
+
+/******************************  End of File  *******************************
+ ****************************************************************************/
