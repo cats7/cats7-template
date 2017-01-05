@@ -1,2 +1,2 @@
 # cats7-template
-My Template resources for New Apps
+My Template resources for New Apps.
